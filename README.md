@@ -11,7 +11,7 @@ This repository documents my growth and understanding of core JavaScript concept
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 javascript-practice/
 └── conditions/
 └── timmy-info.js
@@ -29,6 +29,6 @@ Each folder represents a topic, and each file contains a solution or practice ex
 
 ---
 
-## 🚀 Progress
+##  Progress
 
 This repository will continue to grow as I complete more challenges and practice exercises.
