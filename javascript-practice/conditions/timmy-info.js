@@ -1,4 +1,4 @@
- // This file contains simple practice with
+  // This file contains simple practice with
 const hasDeveloperJob = true;
 
 if (hasDeveloperJob) {
